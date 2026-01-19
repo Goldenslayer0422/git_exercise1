@@ -1,1 +1,4 @@
-I dislike github"# git_exercise1" 
+I dislike github
+
+I don't love github
+"# git_exercise1" 
